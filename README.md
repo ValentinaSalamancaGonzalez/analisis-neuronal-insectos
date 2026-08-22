@@ -23,6 +23,10 @@ Aquí queda todo mi trabajo del semestre: talleres, laboratorios y proyecto fina
 |---|---|
 | Lab 1 | Variables, listas, diccionarios, `pandas` y primeros prompts |
 
+## Bitácora
+
+- Lab 1: aprendí a filtrar un DataFrame por condición y a agrupar con `groupby`.
+
 ## Cómo reproducir los análisis
 
 Los cuadernos se abren en Google Colab. Los datos de práctica se generan dentro del propio
